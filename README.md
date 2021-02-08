@@ -1,2 +1,2 @@
-# student_logisticRegression
+# student_logisticregression
 exploration on bedrock platform
