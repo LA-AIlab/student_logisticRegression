@@ -87,7 +87,7 @@ train {
     //     depends_on = ["preprocess"]
     // }
 
-    step trainn {
+    step train {
         image = "basisai/workload-standard:v0.2.1"
         install = [
             "pip3 install --upgrade pip",
